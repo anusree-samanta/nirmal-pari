@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Avijit `,
+    title: `Gatsby Nirmal `,
     author: {
-      name: `Avijit Samanta`,
+      name: `Nirmal Pari`,
       summary: `who lives and works in India building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `AvijitS62916909`,
+      twitter: `NirmalS62916909`,
     },
   },
   plugins: [
@@ -105,7 +105,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Gatsby Avijit  RSS Feed",
+            title: "Gatsby Nirmal  RSS Feed",
           },
         ],
       },
@@ -113,7 +113,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Avijit `,
+        name: `Gatsby Nirmal `,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
